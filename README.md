@@ -1,0 +1,1 @@
+# identifying-diseases-in-plants-with-image-categorization-in-edge-devices
